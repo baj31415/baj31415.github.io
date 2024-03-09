@@ -1,25 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Life of Pai</title>
-    <link>//localhost:1313/</link>
-    <description>Recent content on Life of Pai</description>
+    <title>Experiments on Life of Pai</title>
+    <link>//localhost:1313/tags/experiments/</link>
+    <description>Recent content in Experiments on Life of Pai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/experiments/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Visual Language Models for Robotics </title>
       <link>//localhost:1313/posts/projects/visual_language_models/</link>
       <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
       <guid>//localhost:1313/posts/projects/visual_language_models/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>State of Embodied AI</title>
-      <link>//localhost:1313/posts/notes/eai/</link>
-      <pubDate>Thu, 01 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/notes/eai/</guid>
       <description></description>
     </item>
   </channel>

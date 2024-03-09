@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Life of Pai</title>
+    <link>//localhost:1313/projects/</link>
+    <description>Recent content in Projects on Life of Pai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1</title>
+      <link>//localhost:1313/projects/p1/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/p1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Project 2</title>
+      <link>//localhost:1313/projects/p2/</link>
+      <pubDate>Sat, 09 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/p2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>big thots on eai</title>
+      <link>//localhost:1313/projects/notes/eai/</link>
+      <pubDate>Fri, 26 Jan 1990 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/notes/eai/</guid>
+      <description>EAI</description>
+    </item>
+  </channel>
+</rss>

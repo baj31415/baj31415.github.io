@@ -1,4 +1,44 @@
+#Bold ideas, Clean code, 
+#Language crisp, change unfurls,
+#World anew, we steer.
+
 baseURL: baj31415.github.io
 languageCode: en-us
 title: Life of Pai 
 theme : ["PaperMod"]
+contentDir : "content/"
+
+
+#greeter
+params:
+  homeInfoParams:
+  #profileMode:
+    enabled: true
+    Title: Utkarsh Bajpai
+    Content: "Masters student in robotics. Interests span across AI, math, neuroscience, philosophy, art, rock music. Documenting notes, experiments, thoughts on learning to build better robots."
+  
+  socialIcons: # optional
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/utkarshbajpairobotics/"
+    - name: "github"
+      url: "https://github.com/baj31415"
+    - name: "googlescholar"
+      url: "https://scholar.google.co.in/citations?user=p49r5REAAAAJ&hl=en"
+    - name: "twitter"
+      url: "https://twitter.com/baj31415"
+    - name: "spotify"
+      url: "https://open.spotify.com/user/31raytzqvqctitcc6zwnw7ykbije?si=sXdjQ2RcRF6GsiME4ShCfA"
+    
+
+  taxonomies:
+    tag: "tags"
+
+#menus when this blog gets complicated    
+#menu:
+#  main:
+#    - identifier: "notes"
+#      name: "Notes"
+#      url: "notes"
+#    - identifier: "/projects"
+#      name: "Projects"
+#      url: "projects"

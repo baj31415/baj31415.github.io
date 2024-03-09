@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Pages on Life of Pai</title>
+    <link>//localhost:1313/pages/</link>
+    <description>Recent content in Pages on Life of Pai</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 Mar 2024 22:20:22 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>//localhost:1313/pages/notes/</link>
+      <pubDate>Sat, 09 Mar 2024 22:20:22 +0100</pubDate>
+      <guid>//localhost:1313/pages/notes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/pages/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/about/</guid>
+      <description>Hi there I go by many names online, but my real name is Chance. I&amp;rsquo;m just a nerdy guy who likes tech, mechanical keyboards, and other nerdy things. I&amp;rsquo;m not really sure where this blog is going to go but it&amp;rsquo;ll probably have a lot of keyboard related posts. As well as my attempts to learn Python &amp;ndash; as well as other languages &amp;ndash; and other tech related things.
+I can be reached using the following methods: Mastadon: sm0g@linuxrocks.</description>
+    </item>
+  </channel>
+</rss>
