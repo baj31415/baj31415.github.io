@@ -20,7 +20,7 @@ params:
             Masters student at the University of Bonn interested in AI, robotics, neuroscience, philosophy. Docmenting notes, experiments, thoughts on learning to build better robots. 
                   
 
-            Research Interests :
+            #### Research Interests :
 
 
             - **Embodied Cognition:** Visual Navigation, Object-Manipulation, Bayesian Inference
@@ -32,9 +32,9 @@ params:
             - **Planning:** Scene Exploration, Informative Path Planning,  Reinforcement Learning
 
 
-            - **Simulation:** Synthetic Data Generation, Domain Randomization"  
+            - **Simulation:** Synthetic Data Generation, Domain Randomization  
 
-            
+
 
 
   socialIcons: # optional
