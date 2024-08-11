@@ -15,14 +15,14 @@ params:
   #profileMode:
     enabled: true
     Title: Utkarsh Bajpai
-    Content: "Masters student at the University of Bonn interested in AI, robotics, neuroscience, philosophy. Docmenting notes, experiments, thoughts on learning to build better robots.  
+    Content: "Masters student at the University of Bonn interested in AI, robotics, neuroscience, philosophy. Docmenting notes, experiments, thoughts on learning to build better robots. \n  
                   
-              Research Interests :   
+              Research Interests :   \n
 
-            - **Embodied Cognition:** Visual Navigation, Object-Manipulation, Bayesian Inference  
-            - **Scene Understanding:** Open-Set Perception, Visual-Language Models, Mapping  
-            - **Planning:** Scene Exploration, Informative Path Planning,  Reinforcement Learning  
-            - **Simulation:** Synthetic Data Generation, Domain Randomization"  
+            - **Embodied Cognition:** Visual Navigation, Object-Manipulation, Bayesian Inference  \n
+            - **Scene Understanding:** Open-Set Perception, Visual-Language Models, Mapping  \n
+            - **Planning:** Scene Exploration, Informative Path Planning,  Reinforcement Learning \n  
+            - **Simulation:** Synthetic Data Generation, Domain Randomization"  \n
 
 
   socialIcons: # optional
