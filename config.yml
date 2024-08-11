@@ -15,8 +15,15 @@ params:
   #profileMode:
     enabled: true
     Title: Utkarsh Bajpai
-    Content: "Masters student in robotics. Interests span across AI, math, neuroscience, philosophy, art, rock music. Documenting notes, experiments, thoughts on learning to build better robots."
-  
+    Content: "Masters student at the University of Bonn interested in AI, robotics, neuroscience, philosophy. Docmenting notes, experiments, thoughts on learning to build better robots.
+              
+              Research Interests : 
+
+            - **Embodied Cognition:** Visual Navigation, Object-Manipulation, Bayesian Inference
+            - **Scene Understanding:** Open-Set Perception, Visual-Language Models, Mapping
+            - **Planning:** Scene Exploration, Informative Path Planning,  Reinforcement Learning
+            - **Simulation:** Synthetic Data Generation, Domain Randomization"
+
   socialIcons: # optional
     - name: "linkedin"
       url: "https://www.linkedin.com/in/utkarshbajpairobotics/"
@@ -26,8 +33,8 @@ params:
       url: "https://scholar.google.co.in/citations?user=p49r5REAAAAJ&hl=en"
     - name: "twitter"
       url: "https://twitter.com/baj31415"
-    - name: "spotify"
-      url: "https://open.spotify.com/user/31raytzqvqctitcc6zwnw7ykbije?si=sXdjQ2RcRF6GsiME4ShCfA"
+    #- name: "spotify"
+    #  url: "https://open.spotify.com/user/31raytzqvqctitcc6zwnw7ykbije?si=sXdjQ2RcRF6GsiME4ShCfA"
     
 
   taxonomies:
