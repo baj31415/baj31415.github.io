@@ -1,7 +1,3 @@
-#Bold ideas, Clean code, 
-#Language crisp, change unfurls,
-#World anew, we steer.
-
 baseURL: baj31415.github.io
 languageCode: en-us
 title: Life of Pai 
@@ -16,31 +12,7 @@ params:
     enabled: true
     Title: Utkarsh Bajpai
     Content: >
-    
-            Masters student at the University of Bonn interested in AI, Robotics, Neuroscience, Philosophy. Docmenting notes, experiments, thoughts on learning to build better AI-Robots. 
-           
-            \_
-            \_
-            \_
-            
-            #### Research Interests :
-
-
-            - **Embodied Tasks:** Visual Navigation, Object-Manipulation
-            
-
-            - **AI Interpretability:** Uncertainty Estimation, Bayesian Inference, Active Learning
-
-
-            - **Scene Understanding:** Open-Set Perception, Visual-Language Models, Mapping
-
-
-            - **Planning:** Scene Exploration, Informative Path Planning,  Reinforcement Learning
-
-
-            - **Synthetic Scene Generation:** Diffusion Models, Domain Randomization for Simulation  
-
-
+           I’m interested in AI and Robotics. You can find my notes on related topics here.
 
 
   socialIcons: # optional
