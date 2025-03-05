@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About
 
 I am a master's graduate from the University of Bonn. I majored in "Mobile Sensing and Robotics" and wrote my master thesis at the lab of Prof. Cyrill Stachniss in the area of vision language model based perception, mapping and planning for household robots. Before that, I spent a semester working on robotics simulation, RL and sim2real at the Embodied AI team at Huawei Munich. Before that, I worked as a founding employee of one of the largest robotics focused startup accelerators in India. Way before that, I worked on model predictive control as an intern at IIT Delhi, which followed over from my work on building delivery drones and participating at international competitions at SRMIST.
 

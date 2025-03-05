@@ -24,8 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Utkarsh Bajpai"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "I am a master's graduate focused on AI and Robotics."
+  pronouns         : #"he/him" # example: "she/her"  
+  bio              : "I am a master's graduate from the University of Bonn working on AI and Robotics."
   location         : 
   employer         : "University of Bonn"
   uri              : # URL
