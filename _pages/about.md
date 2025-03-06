@@ -20,7 +20,7 @@ Currently seeking roles that allow me to work towards my passion of making the w
 - *Sep 2023*, Started internship at the Embodied AI team at Huawei Munich.
 - *Sep 2022*, Our work on 'Design and Fabrication of a Lighter than Air Wind Turbine', done during my bachelors was published as a book chapter.
 - *Jul 2022*, Received acceptance and full funding to attend the ETH Robotics Summer School.
-- *Jun 2022*, Started working as Research Assistant for Dr. Marija Popovic at Phenorob, University of Bonn.
+- *Jun 2022*, Started working as Research Assistant for Dr. Marija Popović at Phenorob, University of Bonn.
 - *Sep 2021*,Our work on model predctive control for drones done during my bachelor thesis internship at IIT Delhi was published at the AIR conference.
 - *Nov 2020*, I was a referee at DD-Robocon 2020, India's largest robotics competition.
 - *Sep 2020*, Started working at IHFC, one of the largest robotics startup accelerators in India.
