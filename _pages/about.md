@@ -11,7 +11,7 @@ I am a master's graduate from the University of Bonn. I wrote my [master thesis]
 
 I am passionate about working on architectures for cognition and learning in perception, prediction and decision making tasks. My current research interests revolve around RL, generative models, differentiable simulation, AI-interpretability and neuro-inspired architectures to AI.
 
-Currently seeking research roles that allow me to bring an impact to the AI/Robotics space.
+Currently seeking research roles in the AI/Robotics space.
 
 # News
 
