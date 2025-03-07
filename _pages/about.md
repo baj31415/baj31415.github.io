@@ -11,20 +11,20 @@ I am a master's graduate from the University of Bonn. I wrote my master thesis a
 
 I am passionate about working on architectures for cognition and learning in perception, prediction and decision making tasks. I am currently interested in learning more about model based RL, differentiable simulation and neuro-inspired architectures to AI.
 
-Currently seeking roles that allow me to work towards my passion of making the world a better place through technology.
+Currently seeking research roles that allow me to bring an impact to the AI/Robotics space.
 
 # News
 
 - *Feb 2025*, Graduated from my Masters at the Univerity of Bonn.
-- *Apr 2024*, I am a teaching assistant for Prof. Cyrill Stachniss's advanced mobile sensing and robotics course MSR-02.
-- *Sep 2023*, Started internship at the Embodied AI team at Huawei Munich.
+- Jan 2025, Became a member of the [Association for Mathematical Consciousness Science](https://amcs-community.org/) 
+- *Apr 2024*, Served as teaching assistant for Prof. Cyrill Stachniss's [MSR-02 - Advanced Mobile Sensing and Robotics](https://www.ipb.uni-bonn.de/msr2-2021/index.html) course.
+- *Sep 2023*, Interned at the Embodied AI team at Huawei Munich Research Center.
 - *Sep 2022*, Our work on 'Design and Fabrication of a Lighter than Air Wind Turbine', done during my bachelors was published as a book chapter.
-- *Jul 2022*, Received acceptance and full funding to attend the ETH Robotics Summer School.
+- *Jul 2022*, Attended the [ETH Robotics Summer School](https://robotics-summerschool.ethz.ch/) with full financial aid, 11% acceptance rate.
 - *Jun 2022*, Started working as Research Assistant for Dr. Marija Popović at Phenorob, University of Bonn.
-- *Sep 2021*,Our work on model predctive control for drones done during my bachelor thesis internship at IIT Delhi was published at the AIR conference.
-- *Nov 2020*, I was a referee at DD-Robocon 2020, India's largest robotics competition.
-- *Sep 2020*, Started working at IHFC, one of the largest robotics startup accelerators in India.
-- *Jan 2020*, Started internship with Prof. S.K. Saha at the Mechatronics Lab, IIT Delhi.
+- *Sep 2021*, Our work on model predctive control for drones done during my bachelor thesis internship at IIT Delhi was published at the AIR conference.
+- *Nov 2020*, Served as a member of the judging panel of the [DD-Robocon 2020](https://diamond.iitd.ac.in/event-dd-robocon.php), [India's largest robotics competition](https://ddrobocon.iitd.ac.in/).
+- *Sep 2020*, Started working at IHFC, the largest robotics focused startup accelerator in India.
+- *Jan 2020*, Interned with Prof. S.K. Saha at the Mechatronics Lab, IIT Delhi on control systems for mobile robots.
 - *Oct 2019*, Won the Mathworks Minidrone competition at the IEEE IROS conference.
-- *Jul 2019*, Received the 'Best in Technical Design' award at the AUVSI SUAS competition.
-- *Apr 2019*, Won the best paper award at the IEEE PCSES conference for work done during my minor project 'Harmonics Assessment in Real Time Printing Industry'.
+- *Jul 2019*, Received the 'Best in Technical Design' award at the AUVSI SUAS competition for our [combined design report](http://baj31415.github.io/files/2019srmuavCDR.pdf).
