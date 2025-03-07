@@ -1,7 +1,7 @@
 ---
 title: "Active Perception and Mapping for Open Vocabulary Object Goal Navigation"
 collection: publications
-category: manuscripts 
+category: theses 
 permalink: /publication/2024bajpaimsc
 excerpt: '**Abstract**: Household robots can elevate the quality of life by automating routine tasks, particularly finding user-specified items within the home. This capability is essential for robots performing tasks such as tidying up, cooking, or assisting individuals with limited mobility. This thesis addresses the challenging task of finding user-specified objects in indoor environments...' 
 date: 2024-10-31

@@ -38,7 +38,7 @@ author:
   orcid            : # URL
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Utkarsh-Bajpai-6"
   scopus           : # URL
 
   # Repositories and software development
@@ -77,8 +77,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  #books:
-  #  title: 'Books'
+  theses:
+    title: 'Thesis'
+  bookchapters:
+    title: 'Book Chapters'
+  reports:
+    title: 'Reports'
   manuscripts:
     title: 'Journal Articles'    
   conferences:

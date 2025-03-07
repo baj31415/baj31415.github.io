@@ -1,7 +1,7 @@
 ---
 title: "SRM UAV's Journal Paper for SUAS 2019"
 collection: publications
-category: workshop
+category: conferences
 permalink: /publication/2019srmuavSUAS
 excerpt: '**Abstract:** This document serves as an account of the technical development of SRM Institute of Science & Technology’s SRM-UAV towards
 an Unmanned Aerial System capable of autonomous flight, obstacle avoidance, imagery and air delivery for AUVSI’s SUAS 2019.
