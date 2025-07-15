@@ -14,6 +14,14 @@ Previously, I worked as a founding employee and assistant manager of the robotic
 
 I am passionate about working on architectures for perception, representation learning and decision making tasks. My current research interests revolve around reinforcement learning, generative models, interpretability and neuro-inspired AI architectures. 
 
+# News
+
+- *Jul 2025*, Our work on 'Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation' was accepted at ECMR 2025. [arXiv preprint](https://arxiv.org/abs/2506.13367)
+- *Jan 2025*, Became a member of the [Association for Mathematical Consciousness Science](https://amcs-community.org/) 
+- *Sep 2022*, Our work on 'Design and Fabrication of a Lighter than Air Wind Turbine', was published as a book chapter. [Book Chapter](https://link.springer.com/chapter/10.1007/978-981-16-8274-2_3)
+- *Sep 2021*, Our work on model predctive control for drones done during my internship at IIT Delhi was published at the AIR conference. [Conference Proceedings](https://dl.acm.org/doi/abs/10.1145/3478586.3478604)
+- *Nov 2020*, Served as a referee on the jury of the [DD-Robocon 2020](https://diamond.iitd.ac.in/event-dd-robocon.php), [India's largest robotics competition](https://ddrobocon.iitd.ac.in/).
+
 # Awards
 
 - *Jul 2025*, Received the Phenorob M.Sc Conference Grant to present a research paper at the [ECMR 2025](https://ecmr2025.dei.unipd.it).
@@ -22,10 +30,3 @@ I am passionate about working on architectures for perception, representation le
 - *Oct 2019*, Won the [Mathworks Minidrone competition](https://www.mathworks.com/academia/students/competitions/minidrones/winners.html#IROS2019) at the 2019 IEEE IROS conference.
 - *Jul 2019*, Won the 'Best in Technical Design' award at the AUVSI SUAS competition for our [combined design report](http://baj31415.github.io/files/2019srmuavCDR.pdf).
 
-
-# News
-
-- Jan 2025, Became a member of the [Association for Mathematical Consciousness Science](https://amcs-community.org/) 
-- *Sep 2022*, Our work on 'Design and Fabrication of a Lighter than Air Wind Turbine', was published as a book chapter.
-- *Sep 2021*, Our work on model predctive control for drones done during my internship at IIT Delhi was published at the AIR conference.
-- *Nov 2020*, Served as a referee on the jury of the [DD-Robocon 2020](https://diamond.iitd.ac.in/event-dd-robocon.php), [India's largest robotics competition](https://ddrobocon.iitd.ac.in/).
