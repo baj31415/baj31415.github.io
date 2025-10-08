@@ -24,9 +24,10 @@ I am passionate about working on architectures for perception, representation le
 
 # Awards
 
-- *Jul 2025*, Received the [Phenorob](https://www.phenorob.de/index.html) M.Sc Conference Grant to present a research paper at the [ECMR 2025](https://ecmr2025.dei.unipd.it).
+- *Oct 2025*, Received the Naver Labs Europe travel grant to present a poster at the [Naver AI for Robotics workshop](https://europe.naverlabs.com/updates/ai4roboticsworkshop/).
+- *Jul 2025*, Received the [Phenorob](https://www.phenorob.de/index.html) M.Sc Conference Grant for my [ECMR 2025](https://ecmr2025.dei.unipd.it) [paper](https://arxiv.org/abs/2506.13367).
 - *Jun 2025*, Awarded the [Marie Skłodowska-Curie PhD Fellowship](https://marie-sklodowska-curie-actions.ec.europa.eu/about-msca) to support my doctoral research on the [AIGreenBots](https://aigreenbots.eu) EU project.
-- *Jul 2022*, Received full financial aid to attend the [ETH Robotics Summer School](https://robotics-summerschool.ethz.ch/), 11% acceptance rate.
+- *Jul 2022*, Accepted and received full financial aid to attend the [ETH Robotics Summer School](https://robotics-summerschool.ethz.ch/).
 - *Oct 2019*, Won the [Mathworks Minidrone competition](https://www.mathworks.com/academia/students/competitions/minidrones/winners.html#IROS2019) at the 2019 IEEE IROS conference.
 - *Jul 2019*, Won the 'Best in Technical Design' award at the AUVSI SUAS competition for our [combined design report](http://baj31415.github.io/files/2019srmuavCDR.pdf).
 
