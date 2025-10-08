@@ -12,7 +12,7 @@ I earned my master's degree from the University of Bonn where I majored in Mobil
 
 Previously, I worked as a founding employee and assistant manager of the robotics focused VC and startup accelerator [IHFC](https://www.ihfc.co.in/). Previously to which, I worked on model predictive control as an intern at IIT Delhi with [S.K. Saha](https://scholar.google.co.in/citations?hl=en&user=9Td4hFMAAAAJ&view_op=list_works&sortby=pubdate), which followed my earlier experience developing delivery drones with [SRMUAV](https://www.youtube.com/@srmuav3921).
 
-I am passionate about working on architectures for perception, representation learning and decision making tasks. My current research interests revolve around reinforcement learning, generative models, interpretability and neuro-inspired AI architectures. 
+I am interested in robust and interpretable task planning and decision making for robots. Currently, I work on vision-language models, uncertainty quantification, generative models for planning and reinforcement learning. 
 
 # News
 
