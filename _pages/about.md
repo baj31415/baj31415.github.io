@@ -12,7 +12,7 @@ I hold a master's degree from the University of Bonn where I studied Mobile Sens
 
 Previously, I was as a founding employee and assistant manager of the robotics focused VC and startup accelerator [IHFC](https://www.ihfc.co.in/) following internships at IIT Delhi  on model predictive control with [S.K. Saha](https://scholar.google.co.in/citations?hl=en&user=9Td4hFMAAAAJ&view_op=list_works&sortby=pubdate), and earlier work developing delivery drones with [SRMUAV](https://www.youtube.com/@srmuav3921).
 
-I am interested in robust and interpretable task planning and decision making for robots. Currently, I work on vision-language models, uncertainty quantification, generative models for planning and reinforcement learning. 
+I am interested in robot learning in the context of decision making. Currently, I work on vision-language models, uncertainty quantification, generative models for planning and reinforcement learning. 
 
 # News
 
